@@ -2,7 +2,7 @@
 
 ## I completed level 1.5. I wanted to replicate the most complicated example from the class lectures.
 
-* Note: You'll need to use `python -m http-server` in the same directory as Index.html to run the visualization. This will host the page at `localhost:8000` in your web browser.
+* Note: You'll need to use `python -m http.server --cgi 8000` in the same directory as Index.html to run the visualization. This will host the page at `localhost:8000` in your web browser.
 
 ## Background
 
