@@ -14,11 +14,9 @@ This is an exercise in using D3 JavaScript to create a dynamic data visualzation
 * Place additional labels in your scatter plot and give them click events so that your users can decide which data to display. 
 * Animate the transitions for your circles' locations as well as the range of your axes.
 * Bind the CSV data to the scatter circles. This makes it easier to determine their x or y values when selecting a label.
+* Add tooltips to the circles and display each tooltip with the data that the user has selected. Use the `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged)
 
 ### Demonstrated Skills
 * HTML
 * CSS
 * D3 JavaScript
-
-#### To-Do
-* Incorporate d3-tip. Add tooltips to the circles and display each tooltip with the data that the user has selected. Use the `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged)
