@@ -1,5 +1,7 @@
 # D3 JavaScript dynamic scatter plot
 
+### Deployment:
+* https://michaelbell1011.github.io/d3_js_dynamic_graph/
 * Note: To populate the visualization locally run `python -m http.server --cgi 8000` from terminal in the same directory as Index.html. This will host the page at `localhost:8000` in your web browser.
 
 ## Background
